@@ -1,0 +1,30 @@
+.root .contenido1{
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 20% 1fr 20%;
+    align-items: center;
+    
+}
+.header .logo{
+    background-color: grey;
+    color: black;
+    font-size: 2rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
+.header_grid{
+    height: 3rem;
+    background-color: rgb(205, 203, 203);
+    font-size: 1.2rem;
+    padding: 0px 5rem;
+    border-radius: 3rem;
+
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+.header .btn_header{
+    background-color: aqua  ;
+}
