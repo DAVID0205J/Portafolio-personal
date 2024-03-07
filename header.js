@@ -1,12 +1,12 @@
 let header=`
     <div class="logo">RM</div>
     <nav class="header_grid">
-        <div>opcion1</div>
-        <div>opcion2</div>
-        <div>opcion3</div>
-        <div>opcion4</div>
-        <div>opcion5</div>
+        <div>Opcion_1</div>
+        <div>Opcion_2</div>
+        <div>Opcion_3</div>
+        <div>Opcion_4</div>
+        <div>Opcion_5</div>
     </nav>
-    <div class="btn_header"></div>
+    <div class="btn_header">DAVID0205J</div>
 `
 export {header}
