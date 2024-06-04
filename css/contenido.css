@@ -18,12 +18,15 @@
     justify-content: space-around;
 }
 
+
 img{
     
     border-radius: 10px;
 
+    align-self: center;
+    
     width: 25rem;
-    height: 12rem;
+    height: 15rem;
 }
 
 a{
@@ -37,10 +40,10 @@ a{
 
     background-color: black;
     color: aliceblue;
-    width: 8rem;
-    height: 2rem;
+    width:auto;
+    height: 3.5rem;
 
-    font-size: 1rem;
+    font-size: 2rem;
     font-weight: 600;
 
     display: flex;
@@ -55,11 +58,11 @@ a{
 
     background-color: black;
     color: aliceblue;
-    width: 8rem;
-    height: 2rem;
+    width: auto;
+    height: 3.5rem;
     
 
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 600;
 
     display: flex;
@@ -72,6 +75,16 @@ a{
 
 .contenedor div_contenedor{
     margin: 5px;
+    text-align: center;
+
+    width: auto;
+
     border: 2px solid black;
     border-radius: 10px;
+}
+.descripcion{
+    font-size: 1.5rem;
+}
+.titulo{
+    font-size: 2rem;
 }

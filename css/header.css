@@ -1,4 +1,5 @@
 .header{
+
     grid-column-start: 1;
     grid-column-end: 3;
     
@@ -26,6 +27,19 @@
     align-items: center;
 }
 
+.log2{
+    background-color: rgb(224, 224, 224);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 100%;
+
+    font-size: 2rem;
+    font-weight: 600;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 nav{
     width: 90%;
     height: 5rem;

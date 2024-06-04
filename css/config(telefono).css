@@ -1,0 +1,84 @@
+@media (max-width:375px) {
+    html,body,#root{
+        width: auto;
+        height: 100rem;
+
+    }
+
+    #root{
+    }
+
+    .contenedor{
+        display: flex;
+        max-width: 480px;
+        height: auto;
+        text-align: center;
+    }
+    .header{
+        width: auto;
+        height: auto;
+        display: grid;
+        grid-template-columns: 20% auto 20%;
+        
+    }
+    nav{
+        width: auto;
+        display: flex;
+        text-align: center;
+        justify-self: center;
+        gap: 6px;
+
+    }
+    nav div{
+        width: 45px;
+        font-size: 8px;
+    }
+    .btn{
+        width: 46px;
+        font-size: 8px;
+    }
+    .log{
+        width: 5rem;
+        height: 5rem;
+        font-size: 15px;
+        align-self: center;
+        justify-self: center;
+
+    }
+    .log2{
+        display: none;
+    }
+    .cuadroLateral{
+        width: auto;
+ 
+    }
+    .info{
+        display: grid;
+        width: auto;
+        text-align: center;
+        grid-template-rows: auto 1fr;
+    }
+    .nombre{
+        display: grid;
+        grid-row-start:1;
+        width: auto;
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .formateo1 h4{
+        width: auto;
+        font-size: 12px;
+        grid-row-start: 2;
+    }
+    .formateo p{
+        font-size: 9px;
+    }
+    .titulo{
+        font-size: 1.5rem;
+    }
+    .descripcion{
+        font-size: 1rem;
+    }
+
+}
