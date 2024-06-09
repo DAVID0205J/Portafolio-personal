@@ -20,6 +20,20 @@ let webs = [
         githubpage: "https://david0205j.github.io/Cambio-de-color-/",
         descripcion: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero velit facere assumenda corrupti at accusantium obcaecati iusto, tempora expedita aspernatur reiciendis non ratione enim voluptatibus, consequuntur ex ullam voluptas rem? "
     }
+    ,    {
+        nombre: "Caluculadora",
+        img :"./img/calculadora.png",
+        repositorio: "https://github.com/DAVID0205J/calculadora",
+        githubpage: "https://david0205j.github.io/calculadora/",
+        descripcion: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero velit facere assumenda corrupti at accusantium obcaecati iusto, tempora expedita aspernatur reiciendis non ratione enim voluptatibus, consequuntur ex ullam voluptas rem? "
+    },
+    {
+        nombre: "TodoList",
+        img :"./img/todolist.png",
+        repositorio: "https://github.com/DAVID0205J/todolist",
+        githubpage: "https://david0205j.github.io/todolist/",
+        descripcion: " Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero velit facere assumenda corrupti at accusantium obcaecati iusto, tempora expedita aspernatur reiciendis non ratione enim voluptatibus, consequuntur ex ullam voluptas rem? "
+    }
 
 ];
 
