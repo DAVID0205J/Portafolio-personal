@@ -4,7 +4,6 @@
     margin: auto;
     margin-top: 1%;
 
-    display: grid;
     grid-template-columns: 20% 1fr;
     grid-template-rows: 10% 20% 1fr;
     gap: 10px;

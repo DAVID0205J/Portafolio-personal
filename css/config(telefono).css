@@ -1,4 +1,4 @@
-@media (max-width:375px) {
+@media (max-width:376px) {
     html,body,#root{
         width: auto;
         height: 100rem;
@@ -6,6 +6,7 @@
     }
 
     #root{
+        
     }
 
     .contenedor{

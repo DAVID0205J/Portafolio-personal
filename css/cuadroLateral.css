@@ -17,12 +17,16 @@
     align-items: center;
     justify-self: center;
     margin-top: 20px;
+    margin-bottom: 20px;
+
+    border: 1.5px solid black;
+
 }
 
 .nombre{
-    padding: 1rem;
     font-size: 3rem;
     font-weight: 600;
+    text-align: center;
 }
 .formateo1{
     grid-row-start: 2;
